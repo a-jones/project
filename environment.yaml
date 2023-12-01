@@ -1,0 +1,7 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: /Users/andreajones/miniconda3/envs/dstoolbox
